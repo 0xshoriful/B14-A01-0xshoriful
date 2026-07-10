@@ -1,0 +1,1 @@
+i want add sponsor section in my devconf 2026 page two group platinum and gold platinum name big gold name small use website blue color give me the html and css with modern and proffesional vibe
