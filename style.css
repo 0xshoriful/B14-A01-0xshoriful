@@ -211,7 +211,54 @@ header button {
     background-color: #2563eb;
     color: #ffffff;
 }
-
+/* AI Generated FAQ Section */
+.faq {
+  background: #f8fafc;
+  padding: 100px 20px;
+}
+.faq-container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.section-title {
+  text-align: center;
+  margin-bottom: 60px;
+}
+.section-title h2 {
+  font-size: 40px;
+  color: #0f172a;
+  margin-bottom: 15px;
+}
+.section-title p {
+  color: #64748b;
+  font-size: 18px;
+  max-width: 650px;
+  margin: auto;
+}
+.faq-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+}
+.faq-item {
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 16px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+  transition: 0.3s;
+}
+.faq-item:hover {
+  transform: translateY(-5px);
+}
+.faq-item h3 {
+  color: #2563eb;
+  margin-bottom: 15px;
+  font-size: 22px;
+}
+.faq-item p {
+  color: #475569;
+  line-height: 1.7;
+}
 /* Footer Section */
 .site-footer {
   background: #0b1727;

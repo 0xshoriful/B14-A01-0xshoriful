@@ -1,1 +1,1 @@
-i want add sponsor section in my devconf 2026 page two group platinum and gold platinum name big gold name small use website blue color give me the html and css with modern and proffesional vibe
+Create a modern FAQ section for DevConf 2026. Include a heading and a short description. Add 4 to 6 common conference questions with answers. Use clean HTML and CSS only. Match the overall style of the DevConf 2026 website.
